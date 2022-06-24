@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maxwell/static/css/main.073c9b0a.css",
+    "main.js": "/maxwell/static/js/main.5026693e.js",
+    "static/js/787.977092f1.chunk.js": "/maxwell/static/js/787.977092f1.chunk.js",
+    "static/media/logo.svg": "/maxwell/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/maxwell/index.html",
+    "main.073c9b0a.css.map": "/maxwell/static/css/main.073c9b0a.css.map",
+    "main.5026693e.js.map": "/maxwell/static/js/main.5026693e.js.map",
+    "787.977092f1.chunk.js.map": "/maxwell/static/js/787.977092f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5026693e.js"
+  ]
+}
